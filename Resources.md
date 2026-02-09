@@ -5,3 +5,5 @@
 [Tutorial: Write You A Vector Database, IVFFlat Index, skyzh.github.io](https://skyzh.github.io/write-you-a-vector-db/cpp-05-ivfflat.html)
 
 github repo for the tutorial: https://github.com/skyzh/bustub-vectordb
+
+[Vector Search & Approximate Nearest Neighbors (ANN) | FAISS (HNSW & IVF), M. Zaki, Feb. 1st, 2025 (youtube video)](https://www.youtube.com/watch?v=chz74Mtd1AA)
